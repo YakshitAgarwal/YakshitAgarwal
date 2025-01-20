@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙌, I'm Yakshit Agarwal</h1>
-<h3 align="center">A enthusiastic blockchain developer from India.</h3>
+<h3 align="center">An enthusiastic blockchain developer from India.</h3>
 
 - 🌱 I’m currently learning **NextJS and TypeScript**
 
