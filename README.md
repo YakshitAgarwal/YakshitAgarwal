@@ -9,7 +9,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakshitAgarwal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=python">
 </a>
 </div>
-<div>
+<div align="center>
 <a href="https://github.com/YakshitAgarwal">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YakshitAgarwal&theme=radical&hide_border=false">
 </a>
