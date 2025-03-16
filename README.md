@@ -3,7 +3,7 @@
 
 <div>
 <a href="https://github.com/YakshitAgarwal">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YakshitAgarwal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YakshitAgarwal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
 </a>
 <a href="https://github.com/YakshitAgarwal">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakshitAgarwal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=python">
@@ -32,6 +32,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=solidity,ts,js,c,cpp">
+<br>
 <img src="https://skillicons.dev/icons?i=nextjs,react,vite,nodejs,express,mongodb,ipfs,npm,tailwind">
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,firebase,postman,vscode,ubuntu,vercel">
 </p>
