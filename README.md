@@ -1,13 +1,19 @@
 <h1 align="center">Hi 🙌, I'm Yakshit Agarwal</h1>
 <h3 align="center">An enthusiastic blockchain developer from India.</h3>
 
+<div>
 <a href="https://github.com/YakshitAgarwal">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YakshitAgarwal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true">
 </a>
 <a href="https://github.com/YakshitAgarwal">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakshitAgarwal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=python">
 </a>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YakshitAgarwal&theme=radical&hide_border=false)
+</div>
+<div>
+<a href="https://github.com/YakshitAgarwal">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YakshitAgarwal&theme=radical&hide_border=false">
+</a>
+</div>
 
 - 🏆 **Open source contributor**
 
@@ -25,7 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-![](https://skillicons.dev/icons?i=solidity,ts,js,c,cpp)
-![](https://skillicons.dev/icons?i=nextjs,react,vite,nodejs,express,mongodb,ipfs,npm,tailwind)
-![](https://skillicons.dev/icons?i=git,github,firebase,postman,vscode,ubuntu,vercel)
+<img src="https://skillicons.dev/icons?i=solidity,ts,js,c,cpp">
+<img src="https://skillicons.dev/icons?i=nextjs,react,vite,nodejs,express,mongodb,ipfs,npm,tailwind">
+<img src="https://skillicons.dev/icons?i=git,github,firebase,postman,vscode,ubuntu,vercel">
 </p>
